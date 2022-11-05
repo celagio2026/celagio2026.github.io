@@ -136,18 +136,16 @@ body{
 }
 
 .left{
-    height: 520px;
+    height: 600px;
     width: 45%;
-    margin: 5px;
     margin-right: 20px;
     margin-left: 60px;
     border-radius: 20px;
 }
 
 .right{
-    height: 520px;
+    height: 600px;
     width: 45%;
-    margin: 5px;
     border-radius: 20px;
 }
 
